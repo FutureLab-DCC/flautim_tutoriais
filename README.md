@@ -24,5 +24,18 @@
     </tr>
 </table>
 
-# Tutoriais
-Tutoriais da plataforma Flautim.
+# 🐦 Tutoriais da Plataforma Flautim
+
+Bem-vindo(a) ao repositório oficial de tutoriais da **[Plataforma Flautim](http://flautim.futurelab.dcc.ufmg.br/)**.
+
+Aqui você encontrará guias práticos, exemplos comentados e instruções passo a passo para explorar todo o potencial da plataforma Flautim em suas pesquisas e projetos.
+
+## 🚀 Comece agora!
+
+Siga os tutoriais abaixo e aprenda como utilizar o Flautim em seus projetos!
+
+## 📚 Notebooks
+
+- Tutorial 1
+- Tutorial 2
+- Tutorial 3
