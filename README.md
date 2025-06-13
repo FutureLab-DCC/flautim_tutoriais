@@ -1,4 +1,4 @@
-<table style="margin: auto; background-color: white;">
+<table border="0" style="margin: auto; background-color: white;">
     <tr>
       <td style="background-color: white;">
         <img src='https://drive.google.com/uc?export=view&id=1lgflViz1uefcvVW1iI57haB4M1bKsZtp' alt="drawing" width="200" />
