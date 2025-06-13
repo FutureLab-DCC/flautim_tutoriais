@@ -24,7 +24,7 @@
     </tr>
 </table>
 
-# 🐦 Tutoriais da Plataforma Flautim
+# Tutoriais da Plataforma Flautim
 
 Bem-vindo(a) ao repositório oficial de tutoriais da **[Plataforma Flautim](http://flautim.futurelab.dcc.ufmg.br/)**.
 
