@@ -34,8 +34,6 @@ Aqui você encontrará guias práticos, exemplos comentados e instruções passo
 
 Siga os tutoriais abaixo e aprenda como utilizar o Flautim em seus projetos!
 
-## 📚 Notebooks
-
-- Tutorial 1
-- Tutorial 2
-- Tutorial 3
+- 📚 [Tutorial 1](http://example.com) - Notebook com exemplo de classificação usando o dataset IRIS.
+- 📚 [Tutorial 2]() - Notebook com exemplo de regressão usando o dataset BOSTON.
+- 📚 [Tutorial 3]() - Notebook com exemplo de classificação de imagens usando o dataset MNIST.
