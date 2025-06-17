@@ -40,6 +40,4 @@ Siga os tutoriais abaixo e aprenda como utilizar o Flautim em seus projetos!
 
 ## 🎥 Tutorial em Vídeo
 
-Aprenda a rodar o experimento do Tutorial 1 com este vídeo passo a passo:
-
-[![Assista ao tutorial](https://img.youtube.com/vi/ID_DO_VIDEO/mqdefault.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+Aprenda a rodar o experimento do Tutorial 1 com este vídeo passo a passo: [Assista ao tutorial](https://drive.google.com/file/d/1eC0CnIzZ-pKLTM6M9QvOmdZlBghjyL9J/view?usp=drive_link)
