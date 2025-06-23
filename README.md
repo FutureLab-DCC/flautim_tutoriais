@@ -47,4 +47,4 @@ Aprenda a rodar o experimento do Tutorial 1 com este vídeo passo a passo: [Assi
 
 Se tiver dúvidas, sugestões ou quiser colaborar com o projeto, entre em contato conosco:
 
-- 💬 Email: 
+- 💬 Email: flautim@dcc.ufmg.br
