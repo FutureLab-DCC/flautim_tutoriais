@@ -45,6 +45,6 @@ Aprenda a rodar o experimento do Tutorial 1 com este vídeo passo a passo: [Assi
 
 ## 📞 Fale conosco
 
-Se tiver dúvidas, sugestões ou quiser colaborar com o projeto, entre em contato conosco:
+Se tiver dúvidas, sugestões ou quiser ter acesso à plataforma, entre em contato conosco:
 
 - 💬 Email: flautim@dcc.ufmg.br
