@@ -54,7 +54,7 @@ def generate_client_fn(context, files):
         cid = int(context_flwr.node_config["partition-id"])
         file = int(cid)
         model = IRISModel.IRISModel(context, suffix = cid)
-        dataset = IRISDataset.IRISDataset(files[file], batch_size = 10, shuffle = False, num_workers = 0)
+        dataset = IRISDataset.IRISDataset(files[file])
         
         return IRISExperiment.IRISExperiment(model, dataset, context).to_client() 
         
@@ -71,7 +71,7 @@ def evaluate_fn(context, files):
         model = IRISModel.IRISModel(context, suffix = "FL-Global")
         model.set_parameters(parameters)
         
-        dataset = IRISDataset.IRISDataset(files[0], batch_size = 10, shuffle = False, num_workers = 0)
+        dataset = IRISDataset.IRISDataset(files[0])
         
         experiment = IRISExperiment.IRISExperiment(model, dataset, context)
         
@@ -86,7 +86,7 @@ def evaluate_fn(context, files):
 if __name__ == '__main__':
 
     context = fl.init() 
-    fl.log(f"Flautim2 inicializado!!!")
+    fl.log(f"Flautim inicializado!!!")
     
     num_clientes = 2
     
