@@ -22,7 +22,7 @@ if __name__ == '__main__':
     # Embaralhe os dados
     file = iris.sample(frac=1, random_state=42).reset_index(drop=True)
     
-    dataset = IRISDataset.IRISDataset(file, batch_size = 10, shuffle = False, num_workers = 0)
+    dataset = IRISDataset.IRISDataset(file, batch_size = 10)
 
     model = IRISModel.IRISModel(context)
 
