@@ -9,7 +9,7 @@ if __name__ == '__main__':
 
     context = fl.init()
 
-    fl.log(f"Flautim2 inicializado!!!")
+    fl.log(f"Flautim inicializado!!!")
     
     # Carregue os dados usando dataset próprio
     iris = pd.read_csv("./data/iris.csv", header=None)
