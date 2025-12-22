@@ -37,6 +37,8 @@ Siga os tutoriais abaixo e aprenda como utilizar o Flautim em seus projetos!
 - 📚 [Tutorial 1](https://github.com/FutureLab-DCC/flautim_tutoriais/blob/main/TUTORIAL_1.ipynb) - Notebook com exemplo de classificação usando o dataset IRIS.
 - 📚 [Tutorial 2](https://github.com/FutureLab-DCC/flautim_tutoriais/blob/06fa2271f24243367732fbfdea5ad64bf8c9d3fa/TUTORIAL_2.ipynb) - Notebook com exemplo de regressão usando o dataset BOSTON.
 - 📚 [Tutorial 3](https://github.com/FutureLab-DCC/flautim_tutoriais/blob/main/TUTORIAL_3.ipynb) - Notebook com exemplo de classificação de imagens usando o dataset MNIST.
+- 📚 [Tutorial 4](./TUTORIAL_4.ipynb) - Notebook com exemplo de classificação de imagens usando o dataset FMNIST, utilizando estratégia de seleção de clientes em ambiente federado.
+
 
 ## 🎥 Tutorial em Vídeo
 
